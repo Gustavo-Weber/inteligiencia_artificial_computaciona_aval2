@@ -11,7 +11,7 @@ Três algoritmos de Machine Learning são treinados e comparados:
 O arquivo utilizado é `movies.csv`, que geralmente contém colunas como:
 - `name`, `rating`, `genre`, `year`, `released`, `score`, `votes`, `director`, `writer`, `star`, `country`, `budget`, `gross`, `company`, `runtime`
 
-> Fonte do dataset: [Kaggle - Movies Dataset](https://www.kaggle.com/datasets/danielgrijalvas/movies)
+> Fonte do dataset: [Kaggle - Movie Industry](https://www.kaggle.com/datasets/danielgrijalvas/movies)
 
 ## Pré-processamento Realizado
 
